@@ -35,7 +35,7 @@ class derived2: virtual public  base, public derived
 		cout<<"This is the MAX derived class.\n";
 	}
 	
-	/*void display()// display was the abstract class ...so we will call here .. if you want to
+	/*void display()    // display was the abstract class ...so we will call here .. if you want to
 	
 	{
 		cout<<"Hey!....";
@@ -50,7 +50,7 @@ derived2 d1;
 
 
 // d1.display();
-//d1.display();
+
 	 
 	return 0;
 	
