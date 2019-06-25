@@ -1,4 +1,5 @@
-#include<iostream>
+#include <iostream>
+
 using namespace std;
 class bank
 {
@@ -16,7 +17,7 @@ class bank
 		
 	}
 	
-	//~bank;
+	
 	void display();//funtion declaration inside the class
 };
 
